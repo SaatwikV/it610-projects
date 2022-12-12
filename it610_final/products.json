@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Sample 1",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/eugenivy_reserv-jVOBV9l7w6c-unsplash.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Sample 2",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/dan-gold-hsMxqh63j-0-unsplash.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Sample 3",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/eugenivy_reserv-mUoZCeC2sLM-unsplash.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Sample 4",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/julia-peretiatko-cVOyEjtaPek-unsplash.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Sample 5",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/christie-kim-0IsBu45B3T8-unsplash.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Sample 6",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/itzel-reyes-ad1Z29_xQ0c-unsplash.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Sample 7",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/bundo-kim-_LNWHLT4HWU-unsplash.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Sample 8",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/irena-carpaccio-fCvk9hD58_o-unsplash.jpg" } } }
+      }
+    }
+  ]
+}

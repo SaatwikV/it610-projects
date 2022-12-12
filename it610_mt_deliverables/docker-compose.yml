@@ -1,0 +1,12 @@
+version: "3"
+services:
+  flower-shop:
+    image: flower:latest
+    container_name: flower_shop
+    restart: always
+    build:
+      context: .
+    volumes:
+      - ./:/usr/share/nginx/html
+    ports:
+      - "80:80"
